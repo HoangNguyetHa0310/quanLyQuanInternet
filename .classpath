@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/src"/>
+	<classpathentry kind="lib" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/Resource/rs2xml.jar"/>
+	<classpathentry kind="lib" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar"/>
+	<classpathentry kind="lib" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.15-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="quanlyquannet-main/source code quanlyquannet/Manager Netteam o/Manager Neteam/build/classes"/>
+</classpath>
